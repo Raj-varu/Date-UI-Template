@@ -31,6 +31,7 @@ position:absolute;
 }
 .selection-grid-container{
     position: absolute;
+    /* height: 210px; */
     top: 15px;
     left: 15px;
     background-color: blue;
@@ -41,4 +42,10 @@ position:absolute;
 
 .selection-button{
     
+}
+.item{
+    background-color: aliceblue;
+    border: 1px black solid;
+    text-align: center;
+    padding: 7px;
 }
